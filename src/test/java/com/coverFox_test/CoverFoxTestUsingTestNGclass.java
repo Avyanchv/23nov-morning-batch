@@ -126,7 +126,9 @@ public class CoverFoxTestUsingTestNGclass extends Base {
    	Reporter.log("Plan number are matching TC is passed", true);
    	
 	Utility.takeScreenshot(driver, "validateCoverFoxPlans");
-   
+   System.out.println("new change for git hub");
+   System.out.println("new change for git hub");
+
    	
    	
   }
